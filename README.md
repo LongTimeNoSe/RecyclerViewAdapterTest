@@ -7,13 +7,6 @@
 
 1：配置
 Gradle中：compile 'com.xyp.use:recyclerviewlibrary:1.0.1'
-或：
-<dependency>
-  	<groupId>com.xyp.use</groupId>
-  	<artifactId>recyclerviewlibrary</artifactId>
-  	<version>1.0.1</version>
-  	<type>pom</type>
-	</dependency>
   
 2：实现：
 （1）：单一布局实现：
